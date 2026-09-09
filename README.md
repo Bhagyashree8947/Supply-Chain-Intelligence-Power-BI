@@ -92,4 +92,3 @@ Analyzes delivery timeliness, service levels, transportation costs, and delivery
 
 ⭐ This project demonstrates the ability to transform operational data into meaningful insights and communicate business performance through interactive dashboards.
 
-<img width="1311" height="737" alt="image" src="https://github.com/user-attachments/assets/87684c09-f4d7-44e4-9c36-7265e629c3dc" />
